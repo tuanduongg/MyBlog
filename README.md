@@ -1,6 +1,6 @@
 
 ## Blog Project
-Requeirdment
+Requeirment
 <ul>
     <li>PHP 7.4.29</li>
     <li>Laravel 8x</li>
